@@ -68,5 +68,15 @@ X.c Reference
        Why ? * Its in key value pair as the javascript.
              *self-describing and easy to understand.
 7. Databases
-       What ? 
+       What ? * Database is the collection of information to organized.
+              *  It can easily to accessed,managed and updated.
+       Why  ? *  To Store and retrieve the data.
+              
 8. Editor
+       What ? A text Editor is a computer program that lets a user enter change
+              A computer program enaling the user to enter or alter text.
+       
+       Why  ? To edit the plain text.
+              It is very important to able to use atleast one text mode editor.
+
+       Ref  ? WWW.google.com	      
